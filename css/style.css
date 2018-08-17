@@ -1,0 +1,28 @@
+body{
+	background-color: #f1f1f1;
+}
+div.box {			
+	margin: 0 auto;
+	margin-top: 73px;
+}
+h1, p {
+	font-family: "Courier New", Courier, monospace;
+}
+h1 {
+	margin-top: 73px;
+	color: red;
+	font-size: 73px;
+	text-align: center;
+}
+p {
+	margin-top: 73px;
+	text-align: center;
+	font-size: 30px;
+	color: black;
+}
+hr {			
+	margin: 0 auto;
+	margin-top: 73px;
+	width: 70%;
+	background-color: black;
+}
